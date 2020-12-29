@@ -7,10 +7,12 @@ demo
 
 javascript版
 javascript edition
+
 https://sntulix.github.io/javascript-canvas-graphic-low-level/putPixel/javascript/
 
 webassembly版
 webassembly edition
+
 https://sntulix.github.io/javascript-canvas-graphic-low-level/putPixel/webassembly/
 
 参考 references
