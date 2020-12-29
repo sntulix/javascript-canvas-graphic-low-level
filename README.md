@@ -4,4 +4,7 @@
 A source is that write pixel data to canvas.
 
 demo
-https://sntulix.github.io/javascript-canvas-graphic-low-level/
+
+javascript版
+javascript edition
+https://sntulix.github.io/javascript-canvas-graphic-low-level/javascript
